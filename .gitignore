@@ -6,3 +6,13 @@ BattleTank/Intermediate/
 *.VC.db
 *.VC.opendb
 *.sln
+
+###############
+# Unreal stuff#
+###############
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Intermediate
+*/Saved
+BuildingEscape/Content/StarterContent/
